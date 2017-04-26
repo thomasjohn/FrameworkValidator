@@ -22,16 +22,16 @@ and a general description for one framework element:
 
 Fdl Name base Html-5
 
-Define <ElementName> <OptElementLabel>;
-as class1,...;
-as tag tag1,...;
-as attr attr1=val1,...;
-as pos position1,...;
-with <"req"> class1,...;
-with <"req"> attr attr1=val1,...;
-with <"req"> attr attr1 <"number"/...>;
-before <element_list>;
-after <element_list>;
+Define <ElementName> <OptElementLabel>
+as class1,...
+as tag tag1,...
+as attr attr1=val1,...
+as pos position1,...
+with <"req"> class1,...
+with <"req"> attr attr1=val1,...
+with <"req"> attr attr1 <"number"/...>
+before <element_list>
+after <element_list>
 ...
-at <position_list>;
+at <position_list>
 analyze <"body">
