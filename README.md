@@ -1,4 +1,4 @@
-# framework-validator
+# framework validator
 http://frameworkvalidator.org
 
 The project
