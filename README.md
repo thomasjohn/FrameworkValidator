@@ -3,20 +3,20 @@
 The project
 Framework Validator is a validator for websites built with frontend frameworks like Foundation or Bootstrap. 
 
-Framework Validator is a part of Frontend Ocean http://frontendocean.com
+Framework Validator is a part of my next project Frontend Ocean http://frontendocean.com
 
 Links to frameworks descriptions:
-Bootstrap 3
-Bootstrap 4
-Foundation
-Semantic UI
+Bootstrap 3 
+Bootstrap 4 
+Foundation 
+Semantic UI 
 
 Please take a look and send me proposals of additional frameworks you would like to validate.
 
   
 # FDL Language  
 
-To describe available frameworks, I have created a human-like language compiler.  
+To describe available frameworks, I have created a human-like language / compiler.  
 The compiler:  
  checks element's static structure and properties/classes  
  checks construction rules  
