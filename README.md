@@ -11,7 +11,7 @@ Bootstrap 4
 Foundation 
 Semantic UI 
 
-Please take a look and send me proposals of additional frameworks you would like to validate.
+Please take a look and send me proposals of additional frameworks you would like to use.
 
   
 # FDL Language  
